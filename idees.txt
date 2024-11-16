@@ -1,4 +1,0 @@
-Quels sont les jeux avec les genres/tags les plus appréciés ? (tag, genre, catégorie ->user_score/estimated_owners, positive, negative)
-Est-ce que ce sont les jeux les plus récent qui ont le plus grand peak_ccu ? Sinno avec le nombre de joueurs ?
-Recommendation : Par rapport à un genre et ses recommendation moyennes sur les jeux, 
-On donne un jeu, recommandation d'autre jeux avec le meme genre de tag/avec beaucoup de recommendation/avis positif
